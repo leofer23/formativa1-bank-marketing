@@ -1,0 +1,8 @@
+parametro,estimacion,ic_bootstrap_low,ic_bootstrap_high,metodo,estabilidad
+media_age,41.17,40.72,41.62,bootstrap percentil,robusto
+media_balance,1422.658,1355.13,1493.87,bootstrap percentil,robusto
+media_campaign,2.794,2.696,2.897,bootstrap percentil,robusto
+mediana_balance,444.0,420.0,474.0,bootstrap percentil,robusto
+mediana_duration,185.0,179.0,192.0,bootstrap percentil,robusto
+cohen_d_duration,1.3711,1.2318,1.5165,bootstrap percentil (por grupo),robusto
+cramer_v_poutcome,0.2925,0.2472,0.3381,bootstrap percentil (remuestreo de filas),robusto - efecto mas fuerte del estudio
